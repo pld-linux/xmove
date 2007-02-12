@@ -1,6 +1,6 @@
 # TODO: optflags, license info
 Summary:	An X11 pseudoserver for moving windows between displays
-Summary(pl):	Pseudoserwer X11 do przenoszenia okien pomiêdzy ekranami
+Summary(pl.UTF-8):   Pseudoserwer X11 do przenoszenia okien pomiÄ™dzy ekranami
 Name:		xmove
 %define	_beta 2
 Version:	2.0
@@ -18,9 +18,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 xmove lets you change which display an X Window System program renders
 to - this could be a different monitor or even a different machine.
 
-%description -l pl
-xmove pozwala zmieniæ ekran, na który program dzia³aj±cy pod X Window
-System wy¶wietla obraz - mo¿e to byæ inny monitor, albo nawet inna
+%description -l pl.UTF-8
+xmove pozwala zmieniÄ‡ ekran, na ktÃ³ry program dziaÅ‚ajÄ…cy pod X Window
+System wyÅ›wietla obraz - moÅ¼e to byÄ‡ inny monitor, albo nawet inna
 maszyna.
 
 %prep
