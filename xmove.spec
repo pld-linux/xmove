@@ -1,6 +1,6 @@
 # TODO: optflags, license info
 Summary:	An X11 pseudoserver for moving windows between displays
-Summary(pl.UTF-8):   Pseudoserwer X11 do przenoszenia okien pomiędzy ekranami
+Summary(pl.UTF-8):	Pseudoserwer X11 do przenoszenia okien pomiędzy ekranami
 Name:		xmove
 %define	_beta 2
 Version:	2.0
